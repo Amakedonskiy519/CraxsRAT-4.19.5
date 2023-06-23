@@ -19,11 +19,11 @@ I do NOT support any malicious use of this software. This is for educational pur
 
 # 功能展示
 CraxsRat v4.19.5：全面调整优化 修正汉化.
-![20230511095754](https://github.com/Kevin2021-jk/CraxsRat_4_2023/assets/62233800/36f06914-680d-4a01-b913-b2a83a46e5bd)
+![20230511095754](https://raw.githubusercontent.com/shasjmasd/CraxsRAT-4.19.5/main/photo_2023-05-10_18-58-52%20copy.jpg)
 CraxsRat v3：
-![218290778](https://user-images.githubusercontent.com/62233800/218306530-f02c2895-c7a6-42a6-9c42-197c83e8ffa8.jpg)
-![20230212134146](https://user-images.githubusercontent.com/62233800/218306534-50b8856c-58d9-46e9-be60-bce0d35cd746.jpg)
-![20230212134200](https://user-images.githubusercontent.com/62233800/218306538-ea93a81f-504e-45ad-9854-55bdd0464f11.jpg)
+![218290778](https://raw.githubusercontent.com/shasjmasd/CraxsRAT-4.19.5/main/photo_2023-06-11_04-50-41%20copy.jpg)
+![20230212134146](https://raw.githubusercontent.com/shasjmasd/CraxsRAT-4.19.5/main/photo_2023-06-11_04-50-46%20copy.jpg)
+
 
 ## Features
 𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
